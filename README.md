@@ -1,3 +1,3 @@
 # Collections and Control Flow
-Swift Collections and Control Flow playground notes from Treehouse Course
+Swift 2.0 Collections and Control Flow playground notes from Treehouse Course
 
