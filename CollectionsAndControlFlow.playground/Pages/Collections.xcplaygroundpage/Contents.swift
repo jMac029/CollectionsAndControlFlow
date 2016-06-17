@@ -16,7 +16,7 @@ let secondTaskList = ["Mow the lawn"]
 let firstTask = todo[0]
 let thridTask = todo[2]
 
-todo[4]  = "Brush teeth"
+todo[4] = "Brush teeth"
 
 // Inserting using Indexes
 
