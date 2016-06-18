@@ -34,7 +34,7 @@ var index = 0
 
 while index < todo.count {
     print(todo[index])
-    index++
+    index += 1
 }
 
 
@@ -44,10 +44,10 @@ var counter = 1
 
 while counter < 1 {
     print("I'm inside the while loop!")
-    counter++
+    counter += 1
 }
 
 repeat {
     print("I'm inside the repeat loop!")
-    counter++
+    counter += 1
 } while counter < 1
